@@ -43,6 +43,7 @@
         android:title="@string/provider_title"
         android:entries="@array/provider_entries"
         android:entryValues="@array/provider_values"
+        android:defaultValue="1"
         android:dependency="enable" />
 
     <EditTextPreference
